@@ -1,7 +1,7 @@
 //importing dependencies
 
 const router = require('express').Router();
-const archive = require('..db/archive');
+const archive = require('../db/archive');
 
 //get route to respond with everything from the db
 

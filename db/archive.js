@@ -16,7 +16,7 @@ class Archive {
     }
 
     write(note) {
-        return writeFileAsync('db/db.json', JSAON.stringify(note));
+        return writeFileAsync('db/db.json', JSON.stringify(note));
 
     }
 
