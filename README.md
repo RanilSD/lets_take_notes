@@ -5,7 +5,6 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Licenses](#licenses)
 - [Contributing](#contributing)
 - [Demo](#demo)
 - [Questions](#questions)
