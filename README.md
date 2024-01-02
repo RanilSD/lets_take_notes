@@ -36,6 +36,7 @@ This is an easy note taker app that can be utilized to help you and/or your fami
 Others can contribute by make it more engaging and pleasing to the eye, and by making it so we can edit notes that are already saved.
 
 ## Demo
+[Note Taker.webm](https://github.com/RanilSD/lets_take_notes/assets/139150974/8713bc48-e0f6-44fc-8578-9569160bcd7f)
 
 ## Questions
 
