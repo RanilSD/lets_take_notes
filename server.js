@@ -19,4 +19,4 @@ app.use('/', pageRoutes);
 
 //starting the server on port
 
-app.listen(PORT, () => console.log(`Listening on PORT: ${PORT}`));
+app.listen(PORT, () => console.log("Server listening on port " + PORT));
