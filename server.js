@@ -7,7 +7,7 @@ const pageRoutes = require('./routes/pageRoutes');
 //initializing app and creating port
 
 const app = express();
-const PORT = process.env.Port || 3001;
+const PORT = process.env.PORT || 3001;
 
 //setting up the middleware for routes and all css, and javaScript from public folder files
 
